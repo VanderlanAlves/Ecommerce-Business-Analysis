@@ -1,26 +1,24 @@
-## Descrição do projeto 
+## Project Description 
 
 <p align="justify">
 
-Análise descritiva e prescritiva de e-commerce utilizando PySpark. 
-Você encontrará todos os passos feitos no arquivo .ipynb:
- - Adequação aos tipos de dados corretos;
- - Unificação de várias tabelas pelo mesmo ID;
- - Respostas às perguntas de negócio.
+Descriptive and prescriptive analysis of e-commerce data using PySpark. 
+You will find all the steps performed in the .ipynb file:
+ - Adjustment to the correct data types;
+ - Merging multiple tables using the same ID;
+ - Answers to business questions.
 
 </p>
 
-## Perguntas de negócio: 
+## Business Questions: 
 
 <p align="justify">
 
-- Qual foi o faturamento mês a mês? Qual o mês com maior número de pedidos?
-- Qual o ticket médio dos pedidos?
-- Qual o dia da semana com maior número de pedidos?
-- Quais são os Top 10 produtos mais bem avaliados? O produto deve ter pelo menos 5 avaliações.
-- Qual o faturamento mensal por método de pagamento?
-- Qual a categoria mais vendida na empresa?
-- Qual vendedor teve a melhor performance mês a mês?
+- What was the revenue month by month? Which month had the highest number of orders?
+- What is the average order value?
+- Which day of the week has the highest number of orders?
+- What are the Top 10 highest-rated products? The product must have at least 5 reviews.
+- What is the monthly revenue by payment method?
+- What is the most sold category in the company?
+- Which seller had the best performance month by month?
 </p>
-
-
