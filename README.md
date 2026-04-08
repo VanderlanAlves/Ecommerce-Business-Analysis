@@ -2,7 +2,7 @@
 
 <p align="justify">
 
-Descriptive and prescriptive analysis of e-commerce data using PySpark. 
+Descriptive and prescriptive analysis of e-commerce data using PySpark.   
 You will find all the steps performed in the .ipynb file:
  - Adjustment to the correct data types;
  - Merging multiple tables using the same ID;
